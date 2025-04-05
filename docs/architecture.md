@@ -1,4 +1,3 @@
-
 # Simple Chat App Architecture
 
 ## System Architecture
